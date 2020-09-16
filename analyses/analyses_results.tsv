@@ -1,0 +1,7 @@
+citations	FD_driver_citations	FD_oncogene_citations	FD_tumor_suppressor_citations	FD_all_citations	D_driver_citations	D_oncogene_citations	D_tumor_suppressor_citations	D_all_citations
+1_citation_SVM	0.09	0.09	0.36	0.45	0.19	0.45	0.38	0.64
+1_citation_RF	0.21	0.21	0.36	0.64	0.18	0.44	0.38	0.62
+3_citation_SVM	0	0	0	0	0.03	0.19	0.18	0.38
+3_citation_RF	0	0.07	0.07	0.21	0.03	0.19	0.18	0.37
+10_citation_SVM	0	0	0	0	0.01	0.06	0.06	0.13
+10_citation_RF	0	0	0	0	0.01	0.06	0.06	0.13
