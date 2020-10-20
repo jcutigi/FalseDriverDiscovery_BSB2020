@@ -1,6 +1,4 @@
 gene	driver_citations	oncogene_citations	tumor_suppressor_citations	all_citations
-HSPG2	1	1	0	2
+SOHLH2	0	0	3	3
 ZNF208	0	0	2	2
-CR1	0	0	1	1
-MAP2	0	0	1	1
-PTMA	0	0	1	1
+HSPG2	0	1	0	1

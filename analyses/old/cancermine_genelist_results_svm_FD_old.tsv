@@ -1,7 +1,6 @@
 gene	driver_citations	oncogene_citations	tumor_suppressor_citations	all_citations
-MCM3AP	0	9	0	9
-ADGRB1	0	0	4	4
-ENPEP	2	1	0	3
+HSPG2	1	1	0	2
 ZNF208	0	0	2	2
-FGD5	1	0	0	1
-HSPG2	0	1	0	1
+CR1	0	0	1	1
+MAP2	0	0	1	1
+PTMA	0	0	1	1
